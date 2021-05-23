@@ -1,0 +1,22 @@
+Équipe 58 en Teide - Partie 1 la Balles
+============================
+
+- Makefile: les commandes à exécuter pour la compilation, faire "make"
+
+- Exécution : veuillez saisir "make exeGUI"
+
+
+Partie 2 Automate Cellulaires
+============================
+
+- Makefile: les commandes à exécuter pour la compilation, faire "make"
+
+- Exécution : veuillez saisir "make exeTestSimulator"
+
+
+Partie 3 la Boids
+============================
+
+- Makefile: les commandes à exécuter pour la compilation, faire "make"
+
+- Exécution : veuillez saisir "make exeGUI"
