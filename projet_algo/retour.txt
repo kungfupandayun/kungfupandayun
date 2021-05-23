@@ -1,0 +1,11 @@
+ETAT D'AVANCEMENT
+- Nous avons commencé tout les 2 sur les foncions de base,
+  pour que nous puissions comprendre et manipuler le tableau de structure.
+
+- Pendant les vacances de Touissant, Corinne a avancé sur la partie recursive des fonctions add, remove et contain.
+
+- Simultanément, Jiayun a travaillé sur la partie itératifs des fonctions add, remove et contain.
+
+- Ensuite, Corinne a codé les fonctions print_dico et nb_word, en même temps Jiayun codé sur les fonctions iterators.
+
+- Nous avons fait les fonctions de test ensemble.
