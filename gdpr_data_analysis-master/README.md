@@ -1,5 +1,8 @@
 # GDPR_data_analysis
 
+A short resume and analysis of GDPR enforcement in Europe along the years by scrapping https://www.enforcementtracker.com/.
+Git stats
+
 ## Pakages needed:
 
 	1. Python 
